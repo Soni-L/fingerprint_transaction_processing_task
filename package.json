@@ -1,10 +1,11 @@
 {
   "name": "transactions_max_value",
+  "type": "module",
   "version": "1.0.0",
   "description": "finding the greatest amount of dollar value we can process at a given time",
   "main": "solution.js",
   "scripts": {
-    "start": "node solution.js"
+    "start": "node --experimental-json-modules solution.js"
   },
   "author": "Soni Lamkaj",
   "license": "ISC"
