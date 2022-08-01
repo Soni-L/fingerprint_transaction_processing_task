@@ -7,7 +7,10 @@ Code Explanation in the solution.js comments
 
 Question: What is the max USD value that can be processed in 50ms, 60ms, 90ms, 1000ms?
 <br />
-50ms -> 3637.98$ 
+50ms -> 3637.98$
+<br />
 60ms -> 4362.01$
+<br />
 90ms -> 6870.48$
+<br />
 1000ms -> 35289.19$
